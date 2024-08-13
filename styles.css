@@ -76,8 +76,8 @@ h1 {
     }
 
     .btn {
-        padding: 2rem 4rem; /* Vergroot van 0.8rem 1.6rem naar 1rem 2rem */
-        font-size: 2.4rem; /* Vergroot van 1rem naar 1.2rem */
+        padding: 1rem 2rem; /* Vergroot van 0.8rem 1.6rem naar 1rem 2rem */
+        font-size: 1.2rem; /* Vergroot van 1rem naar 1.2rem */
     }
 }
 
