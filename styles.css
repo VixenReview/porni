@@ -82,7 +82,7 @@ h1 {
 }
 
 @media screen and (max-width: 480px) {
-    .container {
+    h1 {
     margin-top: -100px; /* Verschuift de inhoud 100px omhoog */
     }
     
