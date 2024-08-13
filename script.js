@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const chooseButton = document.getElementById('chooseButton');
     
     chooseButton.addEventListener('click', function() {
-        alert('Je hebt op de knop geklikt!');
+        // Redirect naar google.nl
+        window.location.href = 'https://www.google.nl';
     });
 });
