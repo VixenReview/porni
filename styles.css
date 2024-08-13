@@ -82,6 +82,9 @@ h1 {
 }
 
 @media screen and (max-width: 480px) {
+    .container {
+    margin-top: -100px; /* Verschuift de inhoud 100px omhoog */
+}
     h1 {
         font-size: 3rem; /* Vergroot van 1.5rem naar 2rem */
     }
